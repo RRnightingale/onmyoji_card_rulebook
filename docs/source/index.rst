@@ -7,5 +7,4 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   weimu
