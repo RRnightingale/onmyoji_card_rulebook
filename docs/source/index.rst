@@ -8,4 +8,4 @@ Contents
 .. toctree::
 
    usage
-   帷幕
+   api
